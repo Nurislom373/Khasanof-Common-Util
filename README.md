@@ -9,7 +9,7 @@
 <dependency>
     <groupId>io.github.nurislom373</groupId>
     <artifactId>khasanof-common-util</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </dependency>
 ```
 
